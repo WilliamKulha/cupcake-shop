@@ -3,6 +3,14 @@
   font-style: italic;
 }
 
+.best {
+  color: skyblue;
+  font-style: italic;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+
 
 img.headerpic{
   display:block;
