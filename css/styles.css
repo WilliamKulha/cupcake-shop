@@ -2,3 +2,20 @@
   color: red;
   font-style: italic;
 }
+
+
+img.headerpic{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  height:550px;
+  width:1500px;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 500px;
+  width: 500px;
+}
